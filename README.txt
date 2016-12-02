@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/layonthebeech/pen/JbRxye.
-
+https://layonthebeech.github.io/Pomodoro-Clock/
  
